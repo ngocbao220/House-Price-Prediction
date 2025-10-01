@@ -30,7 +30,6 @@ Please refer to the dataset page for licensing terms and conditions.
     ```bash
     conda create -n houseprice python=3.12
     conda activate houseprice
-    pip install -r requirements.txt
 3. Install dependencies:
     ```bash
     pip install -r requirements.txt
