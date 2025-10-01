@@ -36,10 +36,13 @@ Please refer to the dataset page for licensing terms and conditions.
 
 ## Usage
 1. Train the model
+    ```bash
     python src/train.py
 2. Evaluate the model
+    ```bash
     python src/evaluate.py
 3. Run the application
+    ```bash
     python main.py
 
 ## Evaluation Metrics
