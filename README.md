@@ -42,9 +42,9 @@ Please refer to the dataset page for licensing terms and conditions.
     python main.py
 
 ## Evaluation Metrics
-R² Score (Coefficient of Determination)
-Root Mean Squared Error (RMSE)
-Mean Absolute Error (MAE)
+- R² Score (Coefficient of Determination)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)
 
 ## Author
 [ngocbao200](https://github.com/ngocbao220)
