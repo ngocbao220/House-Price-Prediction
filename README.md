@@ -27,10 +27,12 @@ Please refer to the dataset page for licensing terms and conditions.
    git clone https://github.com/ngocbao220/House-Price-Prediction.git
    cd house-price-prediction
 2. Create and activate a conda environment:
+    ```bash
     conda create -n houseprice python=3.12
     conda activate houseprice
     pip install -r requirements.txt
 3. Install dependencies:
+    ```bash
     pip install -r requirements.txt
 
 ## Usage
