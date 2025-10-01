@@ -47,5 +47,5 @@ Please refer to the dataset page for licensing terms and conditions.
 - Mean Absolute Error (MAE)
 
 ## Author
-[ngocbao200](https://github.com/ngocbao220)
-AI student ... 
+- 👨‍💻[ngocbao200](https://github.com/ngocbao220)
+- AI student ... 
